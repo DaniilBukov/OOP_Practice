@@ -3,7 +3,18 @@
 
 MyClass myClass = new MyClass(1, "2");
 
-int size = int.Parse(Console.ReadLine());
+
+
+int size = 0;
+
+try
+{
+    size = Convert.ToInt32((Console.ReadLine()));
+}
+catch (Exception ex)
+{
+    Console.WriteLine(ex.Message);
+}
 
 MyClass[] myClasses = new MyClass[size];
 
