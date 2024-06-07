@@ -39,5 +39,3 @@ float Median(int[] ints)
         return (sortedInts[sortedInts.Length / 2] + sortedInts[sortedInts.Length / 2 - 1]) / 2.0f;
     else return (sortedInts[sortedInts.Length / 2]);
 }
-
-

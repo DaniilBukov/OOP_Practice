@@ -35,10 +35,10 @@ foreach (MyClass _class in myClasses)
 }
 
 
-string GenerateRandom(int _maxSize)
+string GenerateRandom(int maxSize)
 {
     string str = "";
-    for (int i = 0; i <= rand.NextInt64(0, _maxSize); i++)
+    for (int i = 0; i <= rand.NextInt64(0, maxSize); i++)
     {
         str += Convert.ToChar(rand.Next(65, 122));
     }
