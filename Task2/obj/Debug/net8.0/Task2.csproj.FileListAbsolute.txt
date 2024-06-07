@@ -12,3 +12,4 @@ C:\Users\bukov\Desktop\OOPLAB3\Task1\Task2\obj\Debug\net8.0\refint\Task2.dll
 C:\Users\bukov\Desktop\OOPLAB3\Task1\Task2\obj\Debug\net8.0\Task2.pdb
 C:\Users\bukov\Desktop\OOPLAB3\Task1\Task2\obj\Debug\net8.0\Task2.genruntimeconfig.cache
 C:\Users\bukov\Desktop\OOPLAB3\Task1\Task2\obj\Debug\net8.0\ref\Task2.dll
+C:\Users\bukov\Desktop\OOPLAB3\Task1\Task2\obj\Debug\net8.0\Task2.sourcelink.json
